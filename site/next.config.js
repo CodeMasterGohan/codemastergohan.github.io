@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: '402d SWEG DSO',
+    description: 'The official store for 402d DSO Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://codemastergohan.github.io/',
+    contactUrl: 'https://dso.sern.mil',
   },
   reactStrictMode: true,
   swcMinify: true,
